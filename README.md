@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanveer Hussain</h1>
-<h3 align="center">A passionate mern stack developer</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanveerhusyn&label=Profile%20views&color=0e75b6&style=flat" alt="tanveerhusyn" /> </p>
 
@@ -15,7 +15,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Vt0_-vGoU5m703LkZJaLt70xiNxtNBBe/view?usp=sharing](https://drive.google.com/file/d/1Vt0_-vGoU5m703LkZJaLt70xiNxtNBBe/view?usp=sharing)
 
-- ⚡ Fun fact **NASA can be hacked using HTML :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
