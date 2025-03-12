@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tanveerhussain465@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Vt0_-vGoU5m703LkZJaLt70xiNxtNBBe/view?usp=sharing](https://drive.google.com/file/d/1Vt0_-vGoU5m703LkZJaLt70xiNxtNBBe/view?usp=sharing)
+- 📄 Know about my experiences [See Resume](https://drive.google.com/file/d/1hRoruFCgaYQOpipZ-9epjnQMVfH2DB3-/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
