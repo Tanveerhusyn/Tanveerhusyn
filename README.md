@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/tanveer_husyn" target="blank"><img src="https://img.shields.io/twitter/follow/tanveer_husyn?logo=twitter&style=for-the-badge" alt="tanveer_husyn" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 All of my projects are available at [http://portfolio-tanveer.netlify.app](http://portfolio-tanveer.netlify.app)
 
